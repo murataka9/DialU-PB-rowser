@@ -1,0 +1,505 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EF546A8F1D756DE600BDD646 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546A8E1D756DE600BDD646 /* AppDelegate.swift */; };
+		EF546A911D756DE600BDD646 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546A901D756DE600BDD646 /* ViewController.swift */; };
+		EF546A941D756DE600BDD646 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF546A921D756DE600BDD646 /* Main.storyboard */; };
+		EF546A961D756DE600BDD646 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF546A951D756DE600BDD646 /* Assets.xcassets */; };
+		EF546A991D756DE600BDD646 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF546A971D756DE600BDD646 /* LaunchScreen.storyboard */; };
+		EF546AA41D756DE600BDD646 /* DialU__PU__rowserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AA31D756DE600BDD646 /* DialU__PU__rowserTests.swift */; };
+		EF546AAF1D756DE600BDD646 /* DialU__PU__rowserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AAE1D756DE600BDD646 /* DialU__PU__rowserUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EF546AA01D756DE600BDD646 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF546A831D756DE600BDD646 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF546A8A1D756DE600BDD646;
+			remoteInfo = "DialU°[PU]\"rowser";
+		};
+		EF546AAB1D756DE600BDD646 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF546A831D756DE600BDD646 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF546A8A1D756DE600BDD646;
+			remoteInfo = "DialU°[PU]\"rowser";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EF546A8B1D756DE600BDD646 /* DialU°[PU]"rowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DialU°[PU]\"rowser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF546A8E1D756DE600BDD646 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EF546A901D756DE600BDD646 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EF546A931D756DE600BDD646 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EF546A951D756DE600BDD646 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EF546A981D756DE600BDD646 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EF546A9A1D756DE600BDD646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF546A9F1D756DE600BDD646 /* DialU°[PU]"rowserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DialU°[PU]\"rowserTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF546AA31D756DE600BDD646 /* DialU__PU__rowserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialU__PU__rowserTests.swift; sourceTree = "<group>"; };
+		EF546AA51D756DE600BDD646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF546AAA1D756DE600BDD646 /* DialU°[PU]"rowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DialU°[PU]\"rowserUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF546AAE1D756DE600BDD646 /* DialU__PU__rowserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialU__PU__rowserUITests.swift; sourceTree = "<group>"; };
+		EF546AB01D756DE600BDD646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF546A881D756DE600BDD646 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546A9C1D756DE600BDD646 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546AA71D756DE600BDD646 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF546A821D756DE600BDD646 = {
+			isa = PBXGroup;
+			children = (
+				EF546A8D1D756DE600BDD646 /* DialU°[PU]"rowser */,
+				EF546AA21D756DE600BDD646 /* DialU°[PU]"rowserTests */,
+				EF546AAD1D756DE600BDD646 /* DialU°[PU]"rowserUITests */,
+				EF546A8C1D756DE600BDD646 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF546A8C1D756DE600BDD646 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF546A8B1D756DE600BDD646 /* DialU°[PU]"rowser.app */,
+				EF546A9F1D756DE600BDD646 /* DialU°[PU]"rowserTests.xctest */,
+				EF546AAA1D756DE600BDD646 /* DialU°[PU]"rowserUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF546A8D1D756DE600BDD646 /* DialU°[PU]"rowser */ = {
+			isa = PBXGroup;
+			children = (
+				EF546A8E1D756DE600BDD646 /* AppDelegate.swift */,
+				EF546A901D756DE600BDD646 /* ViewController.swift */,
+				EF546A921D756DE600BDD646 /* Main.storyboard */,
+				EF546A951D756DE600BDD646 /* Assets.xcassets */,
+				EF546A971D756DE600BDD646 /* LaunchScreen.storyboard */,
+				EF546A9A1D756DE600BDD646 /* Info.plist */,
+			);
+			path = "DialU°[PU]\"rowser";
+			sourceTree = "<group>";
+		};
+		EF546AA21D756DE600BDD646 /* DialU°[PU]"rowserTests */ = {
+			isa = PBXGroup;
+			children = (
+				EF546AA31D756DE600BDD646 /* DialU__PU__rowserTests.swift */,
+				EF546AA51D756DE600BDD646 /* Info.plist */,
+			);
+			path = "DialU°[PU]\"rowserTests";
+			sourceTree = "<group>";
+		};
+		EF546AAD1D756DE600BDD646 /* DialU°[PU]"rowserUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EF546AAE1D756DE600BDD646 /* DialU__PU__rowserUITests.swift */,
+				EF546AB01D756DE600BDD646 /* Info.plist */,
+			);
+			path = "DialU°[PU]\"rowserUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF546A8A1D756DE600BDD646 /* DialU°[PU]"rowser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF546AB31D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowser" */;
+			buildPhases = (
+				EF546A871D756DE600BDD646 /* Sources */,
+				EF546A881D756DE600BDD646 /* Frameworks */,
+				EF546A891D756DE600BDD646 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DialU°[PU]\"rowser";
+			productName = "DialU°[PU]\"rowser";
+			productReference = EF546A8B1D756DE600BDD646 /* DialU°[PU]"rowser.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EF546A9E1D756DE600BDD646 /* DialU°[PU]"rowserTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF546AB61D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserTests" */;
+			buildPhases = (
+				EF546A9B1D756DE600BDD646 /* Sources */,
+				EF546A9C1D756DE600BDD646 /* Frameworks */,
+				EF546A9D1D756DE600BDD646 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF546AA11D756DE600BDD646 /* PBXTargetDependency */,
+			);
+			name = "DialU°[PU]\"rowserTests";
+			productName = "DialU°[PU]\"rowserTests";
+			productReference = EF546A9F1D756DE600BDD646 /* DialU°[PU]"rowserTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EF546AA91D756DE600BDD646 /* DialU°[PU]"rowserUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF546AB91D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserUITests" */;
+			buildPhases = (
+				EF546AA61D756DE600BDD646 /* Sources */,
+				EF546AA71D756DE600BDD646 /* Frameworks */,
+				EF546AA81D756DE600BDD646 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF546AAC1D756DE600BDD646 /* PBXTargetDependency */,
+			);
+			name = "DialU°[PU]\"rowserUITests";
+			productName = "DialU°[PU]\"rowserUITests";
+			productReference = EF546AAA1D756DE600BDD646 /* DialU°[PU]"rowserUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF546A831D756DE600BDD646 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Takahito Murakami";
+				TargetAttributes = {
+					EF546A8A1D756DE600BDD646 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+					EF546A9E1D756DE600BDD646 = {
+						CreatedOnToolsVersion = 7.3;
+						TestTargetID = EF546A8A1D756DE600BDD646;
+					};
+					EF546AA91D756DE600BDD646 = {
+						CreatedOnToolsVersion = 7.3;
+						TestTargetID = EF546A8A1D756DE600BDD646;
+					};
+				};
+			};
+			buildConfigurationList = EF546A861D756DE600BDD646 /* Build configuration list for PBXProject "DialU°[PU]"rowser" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF546A821D756DE600BDD646;
+			productRefGroup = EF546A8C1D756DE600BDD646 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF546A8A1D756DE600BDD646 /* DialU°[PU]"rowser */,
+				EF546A9E1D756DE600BDD646 /* DialU°[PU]"rowserTests */,
+				EF546AA91D756DE600BDD646 /* DialU°[PU]"rowserUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF546A891D756DE600BDD646 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF546A991D756DE600BDD646 /* LaunchScreen.storyboard in Resources */,
+				EF546A961D756DE600BDD646 /* Assets.xcassets in Resources */,
+				EF546A941D756DE600BDD646 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546A9D1D756DE600BDD646 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546AA81D756DE600BDD646 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF546A871D756DE600BDD646 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF546A911D756DE600BDD646 /* ViewController.swift in Sources */,
+				EF546A8F1D756DE600BDD646 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546A9B1D756DE600BDD646 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF546AA41D756DE600BDD646 /* DialU__PU__rowserTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF546AA61D756DE600BDD646 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF546AAF1D756DE600BDD646 /* DialU__PU__rowserUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EF546AA11D756DE600BDD646 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF546A8A1D756DE600BDD646 /* DialU°[PU]"rowser */;
+			targetProxy = EF546AA01D756DE600BDD646 /* PBXContainerItemProxy */;
+		};
+		EF546AAC1D756DE600BDD646 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF546A8A1D756DE600BDD646 /* DialU°[PU]"rowser */;
+			targetProxy = EF546AAB1D756DE600BDD646 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EF546A921D756DE600BDD646 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF546A931D756DE600BDD646 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EF546A971D756DE600BDD646 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF546A981D756DE600BDD646 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF546AB11D756DE600BDD646 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EF546AB21D756DE600BDD646 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EF546AB41D756DE600BDD646 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "DialU°[PU]\"rowser/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowser";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EF546AB51D756DE600BDD646 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "DialU°[PU]\"rowser/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowser";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EF546AB71D756DE600BDD646 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "DialU°[PU]\"rowserTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowserTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DialU°[PU]\"rowser.app/DialU°[PU]\"rowser";
+			};
+			name = Debug;
+		};
+		EF546AB81D756DE600BDD646 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "DialU°[PU]\"rowserTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowserTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DialU°[PU]\"rowser.app/DialU°[PU]\"rowser";
+			};
+			name = Release;
+		};
+		EF546ABA1D756DE600BDD646 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "DialU°[PU]\"rowserUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowserUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "DialU°[PU]\"rowser";
+			};
+			name = Debug;
+		};
+		EF546ABB1D756DE600BDD646 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "DialU°[PU]\"rowserUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowserUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "DialU°[PU]\"rowser";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF546A861D756DE600BDD646 /* Build configuration list for PBXProject "DialU°[PU]"rowser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF546AB11D756DE600BDD646 /* Debug */,
+				EF546AB21D756DE600BDD646 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF546AB31D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF546AB41D756DE600BDD646 /* Debug */,
+				EF546AB51D756DE600BDD646 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EF546AB61D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF546AB71D756DE600BDD646 /* Debug */,
+				EF546AB81D756DE600BDD646 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EF546AB91D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF546ABA1D756DE600BDD646 /* Debug */,
+				EF546ABB1D756DE600BDD646 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF546A831D756DE600BDD646 /* Project object */;
+}
