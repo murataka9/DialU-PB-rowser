@@ -1,5 +1,5 @@
 # DialU-PB-rowser 
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000?style=plastic)]()
-[![Langage](https://img.shields.io/badge/Language-Swift%203.0-lightgrey.svg)]()
+[![Travis](https://img.shields.io/badge/Swift-3.0-blue.svg)]()
 
  This App is joke.
