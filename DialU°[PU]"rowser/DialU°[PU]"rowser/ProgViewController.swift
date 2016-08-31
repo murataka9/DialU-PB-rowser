@@ -27,7 +27,7 @@ class ProgViewController: UIViewController {
         Ptimer = NSTimer.scheduledTimerWithTimeInterval(0.3, target: self, selector:#selector(ProgViewController.addTime as (ProgViewController) -> () -> ()), userInfo: nil,repeats: true)
         
         //遷移
-        timer = NSTimer.scheduledTimerWithTimeInterval(29.0, target: self, selector: #selector(ProgViewController.changeView as (ProgViewController) -> () -> ()), userInfo: nil, repeats: false)
+        timer = NSTimer.scheduledTimerWithTimeInterval(27.0, target: self, selector: #selector(ProgViewController.changeView as (ProgViewController) -> () -> ()), userInfo: nil, repeats: false)
         
         //みため変更
         PProgressView.transform = CGAffineTransformMakeScale(1.0, 10.0)
@@ -55,7 +55,7 @@ class ProgViewController: UIViewController {
     
     //プログレスバー更新
     func updateProgress(){
-        PProgressView.setProgress(time/30, animated: false)
+        PProgressView.setProgress(time/25, animated: false)
     }
 
     
