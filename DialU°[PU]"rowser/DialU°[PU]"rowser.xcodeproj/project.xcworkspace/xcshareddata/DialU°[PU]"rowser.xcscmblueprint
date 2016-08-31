@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2FC890874243EF92FC0180DBF7487B5FD3297674",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8A275F09B70C5863716115450575FD6E99921868" : 0,
+    "2FC890874243EF92FC0180DBF7487B5FD3297674" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8506D021-C39B-42E7-B033-151DF2A6B6AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8A275F09B70C5863716115450575FD6E99921868" : "BubbleTransition\/",
+    "2FC890874243EF92FC0180DBF7487B5FD3297674" : "DialU-PB-rowser\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DialU°[PU]\"rowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DialU°[PU]\"rowser\/DialU°[PU]\"rowser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/murataka9\/DialU-PB-rowser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FC890874243EF92FC0180DBF7487B5FD3297674"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/andreamazz\/BubbleTransition",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A275F09B70C5863716115450575FD6E99921868"
+    }
+  ]
+}

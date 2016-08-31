@@ -14,6 +14,20 @@
 		EF546A991D756DE600BDD646 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF546A971D756DE600BDD646 /* LaunchScreen.storyboard */; };
 		EF546AA41D756DE600BDD646 /* DialU__PU__rowserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AA31D756DE600BDD646 /* DialU__PU__rowserTests.swift */; };
 		EF546AAF1D756DE600BDD646 /* DialU__PU__rowserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AAE1D756DE600BDD646 /* DialU__PU__rowserUITests.swift */; };
+		EF546ABF1D757A4800BDD646 /* button.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF546ABE1D757A4800BDD646 /* button.gif */; };
+		EF546AC11D757A5300BDD646 /* earth.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF546AC01D757A5300BDD646 /* earth.gif */; };
+		EF546AC61D757B0D00BDD646 /* bar.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF546AC51D757B0D00BDD646 /* bar.gif */; };
+		EF546AC81D75808900BDD646 /* naka.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF546AC71D75808900BDD646 /* naka.gif */; };
+		EF546ACA1D75815E00BDD646 /* wakusann.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF546AC91D75815E00BDD646 /* wakusann.gif */; };
+		EF546ACE1D75830F00BDD646 /* license.png in Resources */ = {isa = PBXBuildFile; fileRef = EF546ACD1D75830F00BDD646 /* license.png */; };
+		EF546AD11D759FB300BDD646 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF546AD01D759FB300BDD646 /* Default-667h@2x.png */; };
+		EF546AD31D75A1D900BDD646 /* bar-nasi.png in Resources */ = {isa = PBXBuildFile; fileRef = EF546AD21D75A1D900BDD646 /* bar-nasi.png */; };
+		EF546ADF1D76060600BDD646 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF546ADE1D76060600BDD646 /* AVFoundation.framework */; };
+		EF546AE11D76080500BDD646 /* DUPS.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF546AE01D76080500BDD646 /* DUPS.mp3 */; };
+		EF546AE71D76187800BDD646 /* WBControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AE61D76187800BDD646 /* WBControllerViewController.swift */; };
+		EF546AEA1D76B02000BDD646 /* prog-b.png in Resources */ = {isa = PBXBuildFile; fileRef = EF546AE81D76B02000BDD646 /* prog-b.png */; };
+		EF546AEB1D76B02000BDD646 /* prob.png in Resources */ = {isa = PBXBuildFile; fileRef = EF546AE91D76B02000BDD646 /* prob.png */; };
+		EF546AED1D76B14D00BDD646 /* ProgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF546AEC1D76B14D00BDD646 /* ProgViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +61,20 @@
 		EF546AAA1D756DE600BDD646 /* DialU°[PU]"rowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DialU°[PU]\"rowserUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF546AAE1D756DE600BDD646 /* DialU__PU__rowserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialU__PU__rowserUITests.swift; sourceTree = "<group>"; };
 		EF546AB01D756DE600BDD646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF546ABE1D757A4800BDD646 /* button.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = button.gif; sourceTree = "<group>"; };
+		EF546AC01D757A5300BDD646 /* earth.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = earth.gif; sourceTree = "<group>"; };
+		EF546AC51D757B0D00BDD646 /* bar.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bar.gif; sourceTree = "<group>"; };
+		EF546AC71D75808900BDD646 /* naka.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = naka.gif; sourceTree = "<group>"; };
+		EF546AC91D75815E00BDD646 /* wakusann.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wakusann.gif; sourceTree = "<group>"; };
+		EF546ACD1D75830F00BDD646 /* license.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = license.png; sourceTree = "<group>"; };
+		EF546AD01D759FB300BDD646 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
+		EF546AD21D75A1D900BDD646 /* bar-nasi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bar-nasi.png"; sourceTree = "<group>"; };
+		EF546ADE1D76060600BDD646 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		EF546AE01D76080500BDD646 /* DUPS.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DUPS.mp3; sourceTree = "<group>"; };
+		EF546AE61D76187800BDD646 /* WBControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WBControllerViewController.swift; sourceTree = "<group>"; };
+		EF546AE81D76B02000BDD646 /* prog-b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "prog-b.png"; sourceTree = "<group>"; };
+		EF546AE91D76B02000BDD646 /* prob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prob.png; sourceTree = "<group>"; };
+		EF546AEC1D76B14D00BDD646 /* ProgViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF546ADF1D76060600BDD646 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,10 +106,12 @@
 		EF546A821D756DE600BDD646 = {
 			isa = PBXGroup;
 			children = (
+				EF546ADE1D76060600BDD646 /* AVFoundation.framework */,
 				EF546A8D1D756DE600BDD646 /* DialU°[PU]"rowser */,
 				EF546AA21D756DE600BDD646 /* DialU°[PU]"rowserTests */,
 				EF546AAD1D756DE600BDD646 /* DialU°[PU]"rowserUITests */,
 				EF546A8C1D756DE600BDD646 /* Products */,
+				EF546AC21D757A5900BDD646 /* IMG */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,6 +130,8 @@
 			children = (
 				EF546A8E1D756DE600BDD646 /* AppDelegate.swift */,
 				EF546A901D756DE600BDD646 /* ViewController.swift */,
+				EF546AE61D76187800BDD646 /* WBControllerViewController.swift */,
+				EF546AEC1D76B14D00BDD646 /* ProgViewController.swift */,
 				EF546A921D756DE600BDD646 /* Main.storyboard */,
 				EF546A951D756DE600BDD646 /* Assets.xcassets */,
 				EF546A971D756DE600BDD646 /* LaunchScreen.storyboard */,
@@ -123,6 +156,24 @@
 				EF546AB01D756DE600BDD646 /* Info.plist */,
 			);
 			path = "DialU°[PU]\"rowserUITests";
+			sourceTree = "<group>";
+		};
+		EF546AC21D757A5900BDD646 /* IMG */ = {
+			isa = PBXGroup;
+			children = (
+				EF546AC01D757A5300BDD646 /* earth.gif */,
+				EF546ABE1D757A4800BDD646 /* button.gif */,
+				EF546AC51D757B0D00BDD646 /* bar.gif */,
+				EF546AC71D75808900BDD646 /* naka.gif */,
+				EF546AC91D75815E00BDD646 /* wakusann.gif */,
+				EF546ACD1D75830F00BDD646 /* license.png */,
+				EF546AD01D759FB300BDD646 /* Default-667h@2x.png */,
+				EF546AD21D75A1D900BDD646 /* bar-nasi.png */,
+				EF546AE01D76080500BDD646 /* DUPS.mp3 */,
+				EF546AE81D76B02000BDD646 /* prog-b.png */,
+				EF546AE91D76B02000BDD646 /* prob.png */,
+			);
+			name = IMG;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +244,7 @@
 				TargetAttributes = {
 					EF546A8A1D756DE600BDD646 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 5CJ4QVB9X7;
 					};
 					EF546A9E1D756DE600BDD646 = {
 						CreatedOnToolsVersion = 7.3;
@@ -229,9 +281,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF546ACA1D75815E00BDD646 /* wakusann.gif in Resources */,
+				EF546AC61D757B0D00BDD646 /* bar.gif in Resources */,
+				EF546AC11D757A5300BDD646 /* earth.gif in Resources */,
+				EF546AEA1D76B02000BDD646 /* prog-b.png in Resources */,
+				EF546AEB1D76B02000BDD646 /* prob.png in Resources */,
 				EF546A991D756DE600BDD646 /* LaunchScreen.storyboard in Resources */,
 				EF546A961D756DE600BDD646 /* Assets.xcassets in Resources */,
+				EF546AC81D75808900BDD646 /* naka.gif in Resources */,
+				EF546AE11D76080500BDD646 /* DUPS.mp3 in Resources */,
+				EF546ACE1D75830F00BDD646 /* license.png in Resources */,
+				EF546ABF1D757A4800BDD646 /* button.gif in Resources */,
+				EF546AD31D75A1D900BDD646 /* bar-nasi.png in Resources */,
 				EF546A941D756DE600BDD646 /* Main.storyboard in Resources */,
+				EF546AD11D759FB300BDD646 /* Default-667h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +319,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF546AE71D76187800BDD646 /* WBControllerViewController.swift in Sources */,
 				EF546A911D756DE600BDD646 /* ViewController.swift in Sources */,
+				EF546AED1D76B14D00BDD646 /* ProgViewController.swift in Sources */,
 				EF546A8F1D756DE600BDD646 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -399,10 +464,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "DialU°[PU]\"rowser/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowser";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -410,10 +478,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "DialU°[PU]\"rowser/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.takahitomurakami.DialU--PU--rowser";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -482,6 +553,7 @@
 				EF546AB51D756DE600BDD646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF546AB61D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +562,7 @@
 				EF546AB81D756DE600BDD646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF546AB91D756DE600BDD646 /* Build configuration list for PBXNativeTarget "DialU°[PU]"rowserUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +571,7 @@
 				EF546ABB1D756DE600BDD646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
