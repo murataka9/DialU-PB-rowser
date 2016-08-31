@@ -19,6 +19,7 @@ class WBControllerViewController: UIViewController, UIWebViewDelegate {
     
     
     let initialURL = NSURL(string: "https://google.co.jp")
+    
 //    weak var timer: NSTimer?
     //var timer:NSTimer = NSTimer()
     
@@ -46,6 +47,7 @@ class WBControllerViewController: UIViewController, UIWebViewDelegate {
             
             let request = NSURLRequest(URL: initialURL!)
             self.webView.loadRequest(request)
+            self.webView.scrollView.bounces = false
             
 //        }
         
