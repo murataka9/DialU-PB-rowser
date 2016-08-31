@@ -11,7 +11,7 @@
 - The difference this app and the safari is　 " looks only "　 .
 - This app desiged ClassicDesign.
 - I recommend that you turn off the silence mode.
-- The WebView is standard WebView of iOS, so it can read HTML5.
+- The WebView is standard WebView of iOS, so it can read HTML5 and CSS3.
 - This app support Japanese only. I will support others Languages at future updates...maybe......
 
 ***
