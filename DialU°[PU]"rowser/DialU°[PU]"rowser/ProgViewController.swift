@@ -24,7 +24,7 @@ class ProgViewController: UIViewController {
         super.viewDidLoad()
         
         //プログレスバー
-        Ptimer = NSTimer.scheduledTimerWithTimeInterval(0.1, target: self, selector:#selector(ProgViewController.addTime as (ProgViewController) -> () -> ()), userInfo: nil,repeats: true)
+        Ptimer = NSTimer.scheduledTimerWithTimeInterval(0.3, target: self, selector:#selector(ProgViewController.addTime as (ProgViewController) -> () -> ()), userInfo: nil,repeats: true)
         
         //遷移
         timer = NSTimer.scheduledTimerWithTimeInterval(29.0, target: self, selector: #selector(ProgViewController.changeView as (ProgViewController) -> () -> ()), userInfo: nil, repeats: false)
@@ -49,13 +49,13 @@ class ProgViewController: UIViewController {
     
     
     func addTime(){
-        self.time += 0.1
+        self.time += 0.3
         self.updateProgress()
     }
     
     //プログレスバー更新
     func updateProgress(){
-        PProgressView.setProgress(time/10, animated: false)
+        PProgressView.setProgress(time/30, animated: false)
     }
 
     
