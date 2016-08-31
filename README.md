@@ -4,7 +4,8 @@
 [![Shippable](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg?maxAge=2592000)]()
 [![Travis](https://img.shields.io/badge/target-ios-lightgrey.svg)]()
 
-###This is joke app. 
+###This is joke app.  
+![Screenshot](https://github.com/murataka9/DialU-PB-rowser/RM-images/sukusyo.png)
 ***
 #### This App simulate IE5 for MacOS9 on iOS
 - When you see website, you must listen to DialUp Sound and wait 26sec.
